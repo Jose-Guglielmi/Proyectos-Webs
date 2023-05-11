@@ -1,0 +1,142 @@
+[
+  {
+    "nombre": "Kit de 1/2",
+    "precio": 1000,
+    "descripcion": "Estimula el crecimiento, pelo mas sano y con mas volumen hidrata y suavisa",
+    "src": "IMG/Kit de 1-2.jpeg",
+    "id": 1
+  },
+  {
+    "nombre": "Baño de biotina 1/4",
+    "precio": 500,
+    "descripcion": "Estimula, hidrata, devuelve el brillo y fortalece el crecimiento del pelo",
+    "src": "IMG/Baño de biotina.jpg",
+    "id": 2
+  },
+  {
+    "nombre": "Baño de biotina 1/2",
+    "precio": 900,
+    "descripcion": "Estimula, hidrata, devuelve el brillo y fortalece el crecimiento del pelo",
+    "src": "IMG/Baño de biotina.jpg",
+    "id": 3
+  },
+  {
+    "nombre": "Baño de biotina 1 Kilo",
+    "precio": 1700,
+    "descripcion": "Estimula, hidrata, devuelve el brillo y fortalece el crecimiento del pelo",
+    "src": "IMG/Baño de biotina.jpg",
+    "id": 4
+  },
+  {
+    "nombre": "Jalea para rulos",
+    "precio": 250,
+    "descripcion": "Modela, da brillo y nutre. Rulos bien formados",
+    "src": "IMG/Jalea para rulos.jpg",
+    "id": 5
+  },
+  {
+    "nombre": "Shampoo y acondicionador acido",
+    "precio": 1000,
+    "descripcion": "Kit de 1/2 Evita el frizz. Controla el daño causado por el proceso alcalino de los tratamientos quimicos",
+    "src": "IMG/Shampoo y acondicionador acido.jpg",
+    "id": 6
+  },
+  {
+    "nombre": "Gel para afeitar 1/2",
+    "precio": 500,
+    "descripcion": "Facil desplazamiento. Forma una capa transparente que protege la piel",
+    "src": "IMG/Gel para afeitar.jpg",
+    "id": 7
+  },
+  {
+    "nombre": "Plex 1 y plex 2 Kit de 1/4.",
+    "precio": 1500,
+    "descripcion": "Plex 1 regenera fibra capilar luego del proceso quimico. Plex 2 evita que el pelo se quiebre durante la decoloracion",
+    "src": "IMG/Plex 1 y plex 2.jpg",
+    "id": 8
+  },
+  {
+    "nombre": "Productos kids Botox 1/4",
+    "precio": 450,
+    "descripcion": "Aplicar cantidad suficiente sobre el cabello mojado, masajear hasta obtener abundante espuma. Repetir la operación, dejar actuar 2 minutos y enjuagar con abundante agua tibia.",
+    "src": "IMG/Productos kids botox.jpg",
+    "id": 9
+  },
+  {
+    "nombre": "Productos kids Keratina-Organico 1/4",
+    "precio": 450,
+    "descripcion": "Aplicar cantidad suficiente sobre el cabello mojado, masajear hasta obtener abundante espuma. Repetir la operación, dejar actuar 2 minutos y enjuagar con abundante agua tibia.",
+    "src": "IMG/Productos kids Keratina-Organico.jpg",
+    "id": 10
+  },
+  {
+    "nombre": "Protector termico kids",
+    "precio": 350,
+    "descripcion": "Aplicar cantidad suficiente sobre el cabello mojado, masajear hasta obtener abundante espuma. Repetir la operación, dejar actuar 2 minutos y enjuagar con abundante agua tibia.",
+    "src": "IMG/Protector termico kids.jpg",
+    "id": 11
+  },
+  {
+    "nombre": "Balsamo hidratante 1/2",
+    "precio": 600,
+    "descripcion": "Aplicar cantidad suficiente sobre el cabello mojado, masajear hasta obtener abundante espuma. Repetir la operación, dejar actuar 2 minutos y enjuagar con abundante agua tibia.",
+    "src": "IMG/Balsamo hidratante.jpg",
+    "id": 12
+  },
+  {
+    "nombre": "Crema para rulos",
+    "precio": 300,
+    "descripcion": "Aplicar cantidad suficiente sobre el cabello mojado, masajear hasta obtener abundante espuma. Repetir la operación, dejar actuar 2 minutos y enjuagar con abundante agua tibia.",
+    "src": "IMG/Crema para rulos.jpg",
+    "id": 13
+  },
+  {
+    "nombre": "Matizador hidratante violets 1/4",
+    "precio": 500,
+    "descripcion": "Aplicar cantidad suficiente sobre el cabello mojado, masajear hasta obtener abundante espuma. Repetir la operación, dejar actuar 2 minutos y enjuagar con abundante agua tibia.",
+    "src": "IMG/Matizador hidratante violets 1-4.jpg",
+    "id": 14
+  },
+  {
+    "nombre": "Matizador hidratante violets 1/2",
+    "precio": 900,
+    "descripcion": "Aplicar cantidad suficiente sobre el cabello mojado, masajear hasta obtener abundante espuma. Repetir la operación, dejar actuar 2 minutos y enjuagar con abundante agua tibia.",
+    "src": "IMG/Matizador hidratante violets 1-2.jpg",
+    "id": 15
+  },
+  {
+    "nombre": "Matizador hidratante violets 1 Kilo",
+    "precio": 1700,
+    "descripcion": "Aplicar cantidad suficiente sobre el cabello mojado, masajear hasta obtener abundante espuma. Repetir la operación, dejar actuar 2 minutos y enjuagar con abundante agua tibia.",
+    "src": "IMG/Matizador hidratante violets 1.jpg",
+    "id": 16
+  },
+  {
+    "nombre": "Matizador hidratante black 1/4",
+    "precio": 500,
+    "descripcion": "Aplicar cantidad suficiente sobre el cabello mojado, masajear hasta obtener abundante espuma. Repetir la operación, dejar actuar 2 minutos y enjuagar con abundante agua tibia.",
+    "src": "IMG/Matizador hidratante black 1-4.jpg",
+    "id": 17
+  },
+  {
+    "nombre": "Matizador hidratante black 1/2",
+    "precio": 900,
+    "descripcion": "Aplicar cantidad suficiente sobre el cabello mojado, masajear hasta obtener abundante espuma. Repetir la operación, dejar actuar 2 minutos y enjuagar con abundante agua tibia.",
+    "src": "IMG/Matizador hidratante black 1-2.jpg",
+    "id": 18
+  },
+  {
+    "nombre": "Matizador hidratante black 1 Kilo",
+    "precio": 1700,
+    "descripcion": "Aplicar cantidad suficiente sobre el cabello mojado, masajear hasta obtener abundante espuma. Repetir la operación, dejar actuar 2 minutos y enjuagar con abundante agua tibia.",
+    "src": "IMG/Matizador hidratante black 1.jpg",
+    "id": 19
+  },
+  {
+    "nombre": "Matizador hidratante black 1 Kilo",
+    "precio": 1700,
+    "descripcion": "Aplicar cantidad suficiente sobre el cabello mojado, masajear hasta obtener abundante espuma. Repetir la operación, dejar actuar 2 minutos y enjuagar con abundante agua tibia.",
+    "src": "IMG/Matizador hidratante black 1.jpg",
+    "id": 20
+  }
+]

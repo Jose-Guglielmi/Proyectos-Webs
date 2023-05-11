@@ -1,0 +1,10 @@
+body {
+  background: rgb(57, 17, 64);
+  background: linear-gradient(
+    150deg,
+    rgba(57, 17, 64, 1) 0%,
+    rgba(104, 9, 156, 1) 45%,
+    rgba(154, 0, 255, 1) 100%
+  );
+  background-attachment: fixed;
+}

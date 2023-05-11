@@ -1,0 +1,8 @@
+body {
+  display: grid;
+  grid-template: "nav" 50px "section" 1fr "footer";
+}
+@import url("https://fonts.googleapis.com/css2?family=Inder&display=swap");
+* {
+  font-family: "Inder", sans-serif;
+}

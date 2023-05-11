@@ -1,0 +1,28 @@
+.btn-menu {
+  min-width: 40px;
+  min-height: 40px;
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+}
+
+.btn-menu span {
+  height: 3px;
+  display: block;
+  background-color: #fff;
+  transform-origin: 0px 100%;
+  transition: all 0.3s ease-in;
+}
+
+.click span:nth-child(1) {
+  transform: rotate(37deg) translate(-2px, 1px);
+}
+
+.click span:nth-child(2) {
+  transform: translate(50px);
+  opacity: 0;
+}
+
+.click span:nth-child(3) {
+  transform: rotate(-37deg) translate(-2px, 1px);
+}
